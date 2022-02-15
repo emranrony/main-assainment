@@ -1,0 +1,39 @@
+
+img{
+    max-width: 100%;
+}
+
+/* header-section */
+
+.header-section {
+	background-color: #000;
+	padding: 11px;
+}
+.header{}
+.header a{}
+.header a img {
+	width: 100px;
+	height: 60px;
+	margin-left: 108px;
+}
+
+
+
+.header-menu{}
+.header-menu ul{}
+.header-menu ul li {
+	display: inline-block;
+	margin-right: 22px;
+}
+.header-menu ul li a {
+	color: #fff;
+	text-decoration: none;
+	line-height: 46px;
+	font-size: 18px;
+	border-bottom: 1px solid #fff;
+    transition: .5s;
+}
+.header-menu ul li a:hover{
+
+    color: chocolate;
+}
